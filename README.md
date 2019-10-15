@@ -1,1 +1,3 @@
-# saga
+# doctor-booking
+
+Doctor booking app
